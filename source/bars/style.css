@@ -1,0 +1,18 @@
+body {
+  background: #efefef;
+}
+
+#bar_chart{
+  height: 250px;
+  float:left;
+  width: 400px;
+}
+
+#buttons{
+  float:left;
+  width: 150px;
+}
+
+#button_1, #button_2{
+  height: 40px;
+}
