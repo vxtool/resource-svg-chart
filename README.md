@@ -1,7 +1,11 @@
 # Resource of Chart with SVG
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/resource-solutions/resource-svg-chart.svg?style=flat-square)](https://github.com/resource-solutions/resource-svg-chart/issues)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/resource-svg-chart.svg)](https://github.com/org-victorinox/resource-svg-chart/issues)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/resource-svg-chart.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/resource-svg-chart.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/resource-svg-chart.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/resource-svg-chart/total.svg)
 
 ## Contributing
 
@@ -13,7 +17,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/resource-solutions/resource-svg-chart/releases) for detailed changelog.
+Check [Releases](https://github.com/org-victorinox/resource-svg-chart/releases) for detailed changelog.
 
 ## License
 
